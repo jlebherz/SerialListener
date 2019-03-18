@@ -1,0 +1,11 @@
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\bin\Debug\SerialListener.exe.config
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\bin\Debug\SerialListener.exe
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\bin\Debug\SerialListener.pdb
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.Properties.Resources.resources
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.exe
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.pdb
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.main.resources
+c:\users\john\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.About.resources
+C:\Users\John\documents\visual studio 2017\Projects\SerialListener\SerialListener\obj\Debug\SerialListener.csproj.CoreCompileInputs.cache
